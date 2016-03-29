@@ -6,6 +6,7 @@ h1 {
   text-align: center;
 }
 .generate {
+  width: 150px;
   color: white;
   background-color: red;
   border: 1px solid orange;
@@ -15,6 +16,9 @@ h1 {
   position: relative;
   cursor: pointer;
 }
-.generate-holder {
+#name-holder {
+  padding: 20px 10px;
+  font-size: 24px;
+  text-align: center;
   
 }
